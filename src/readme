@@ -1,0 +1,12 @@
+Návod na spustenie HUD v aplikácií Unity:
+
+Priečinok: HTC Vive HUD (Unity projekt)
+Súbor: main.c (slúži na sťahovanie dát z hry X-Plane 11)
+
+1. Stiahnite si plugin XPlaneConnect-1.2.1 (Link na stiahnutie: https://github.com/nasa/XPlaneConnect/releases).
+2. Priečinok XPlaneConnect nachadzajúci sa v ceste: \XPlaneConnect-1.2.1.zip\XPlaneConnect-1.2.1\xpcPlugin
+   vložte do priečinka plugins hry X-Plane 11, cesta je: \X-Plane 11\Resources\plugins.
+3. V priečinku monitorExample vymeňte súbor main.c za súbor nachadzajúci sa na DVD v priečinku \src.
+   Cesta k monitorExample je následovná: \XPlaneConnect-1.2.1.zip\XPlaneConnect-1.2.1\C\monitorExample.
+4. Spustením súbora main.c napríklad vo Visual Studio 2015 zapnete sťahovanie dát z hry X-plane11 (hra musí byť zapnutá).
+5. Otvorte projekt HTC Vive HUD (nachadzajúci sa v priečinku \src) v Unity (projekt je pripravený na spustenie).

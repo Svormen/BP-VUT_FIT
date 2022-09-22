@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.valvesoftware.unity.openvr": {
+      "tarball": {
+        "hash": "3ee6c452bc34",
+        "mtime": 1614113924000,
+        "size": 16210619,
+        "localPath": "/Users/ssvorada/Documents/VUT_FIT/Bakalarka/src/HTC Vive HUD/Assets/SteamVR/OpenVRUnityXRPackage/Editor/com.valvesoftware.unity.openvr-1.1.4.tgz"
+      }
+    }
+  }
+}
